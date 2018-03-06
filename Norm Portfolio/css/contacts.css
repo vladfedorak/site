@@ -1,5 +1,5 @@
 body{
-    background-image: url(whatisthedar.jpg);
+    background-image: url(Images/завантаження.png);
     margin: 0;
 }
 .menu{
@@ -28,3 +28,18 @@ float: right;
     border-right-style: solid;
     border-right-width: 1px;
     border-right-color: white;
+}
+
+.contact{
+    background-color: none;
+    margin: auto;
+    list-style-type: none;
+    overflow: hidden;
+    padding: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu-item{
+    float: left;
+}
+
